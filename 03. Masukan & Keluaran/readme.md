@@ -48,7 +48,25 @@ Untuk membuat program yang dinamis diperlukan sebuah mekanisme untuk memasukan v
     <li>Class Console</li>
 </ul>
 
-Tiga class tersebut untuk mengambil input pada program berbasis teks (console). Sedangkan untuk GUI menggunakan class yang lain seperti JOptionPane dan inputbox pada form.
+Tiga class tersebut untuk mengambil input pada program berbasis teks (console).
+Sedangkan untuk GUI menggunakan class yang lain seperti JOptionPane dan inputbox
+pada form.
+
+<h2>Mengambil masukan dengan Scanner</h2>
+Scanner merupakan class yang menyediakan fungsi-fungsi untuk mengambil input dari keyboard.
+
+Agar kita bisa menggunakan Scanner, kita perlu mengimpornya ke dalam kode:
+
+```java
+import java.util.Scanner;
+```
+
+Perlu diperhatikan, penggunakan fungsi untuk mengambil data bergantung dari tipe data yang digunakan.
+
+Misal, tipe datanya adalah String, maka fungsi atau method yang dipakai adalah nextLine().
+
+Begitu juga dengan tipe data lain, Integer menggunakan nextInt(), Double
+menggunakan nextDouble(), dsb.
 
 <h1>Keluaran</h1>
 Sebuah program perhitungan misalnya, akan menghasilkan nilai yang akan ditampilkan ke pengguna. Dalam java menghasilkan keluaran dapat menggunakan fungsi print(), println(), ataupun system().
