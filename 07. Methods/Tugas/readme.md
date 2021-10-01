@@ -42,7 +42,7 @@ Hint : `es / ds = (e1 * d2 + e2 * d1) / (d1 * d2)`
 
 #### [20 Poin] `productFraction()`
 
-Buatlah method `sumFraction()` untuk menghitung perkalian kedua pecahan `e1 / d1` dan `e2 / d2`. Hasil perkalian disimpan ke dalam variabel
+Buatlah method `productFraction()` untuk menghitung perkalian kedua pecahan `e1 / d1` dan `e2 / d2`. Hasil perkalian disimpan ke dalam variabel
 `ep` dan `dp` `ep / dp` lalu dicetak dengan format keluaran `ep / dp`, contoh `2 / 3`.
 Hint : `ep / dp = (e1 * e2) / (d1 * d2)`
 
