@@ -24,7 +24,7 @@
 - Untuk mempermudah pembacaan, setiap algoritma atau kode blok **wajib** ditulis komentar
 - Kerapihan program menjadi pertimbangan nilai, gunakan identasi yang baik.
 - **Push** file tugas yang telah dikerjakan ke akun github masing-masing ([Tutorial](https://brianrakhmat.github.io/blog/begini-caranya-mengupload-project-ke-github/))
-- Kirim **link file yang sudah di-push di github masing-masing** dan **sceenshoot hasil testcase** lalu kirim ke `arridho.pradana3990@student.unri.ac.id` dengan format subjek `PraktikumPBO-*nim*-*namaLengkap*-*xx.materi*` contoh : `PraktikumPBO-1907113990-arridhoPradana-07.method`
+- Kirim **link file yang sudah di-push di github masing-masing** dan **sceenshoot hasil testcase** lalu kirim ke `arridho.pradana3990@student.unri.ac.id` dan `mochammad.farkhan3896@student.unri.ac.id` dengan format subjek `PraktikumPBO-*nim*-*namaLengkap*-*xx.materi*` contoh : `PraktikumPBO-1907113990-arridhoPradana-07.method`
 - Catatan : Waktu pengerjaan dan kecurangan dapat dilihat, _kerjain sendiri ye_.
 - Catatan (lagi) : Siapin diri buat wawancara tugas satu-satu dengan waktu yang tidak ditentukan ;)
 
